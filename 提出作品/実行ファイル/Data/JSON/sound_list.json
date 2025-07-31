@@ -1,0 +1,44 @@
+{
+  "FilePath": [
+    "Data\\BGM\\tori.wav",
+    "Data\\BGM\\hanamatsuri.wav",
+    "Data\\SE\\Hyun.wav",
+    "Data\\SE\\Doka.wav",
+    "Data\\SE\\Guki.wav",
+    "Data\\SE\\Charin.wav",
+    "Data\\SE\\Gakin.wav",
+    "Data\\SE\\Kill_000.wav",
+    "Data\\SE\\Punch_000.wav",
+    "Data\\SE\\Sweat_000.wav",
+    "Data\\SE\\Wow_000.wav",
+    "Data\\SE\\text.wav"
+  ],
+  "CountLoop": [
+    -1,
+    -1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Volume": [
+    1.0,
+    1.0,
+    3.0,
+    1.0,
+    3.0,
+    1.0,
+    3.0,
+    3.0,
+    3.0,
+    3.0,
+    2.0,
+    1.0
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "element": [
+    [
+      "Title",
+      "Data\\JSON\\INITIALIZE\\CAMERA\\Title.json"
+    ],
+    [
+      "Runway",
+      "Data\\JSON\\INITIALIZE\\CAMERA\\Runway.json"
+    ],
+    [
+      "HumanAppeal",
+      "Data\\JSON\\INITIALIZE\\CAMERA\\HumanAppeal.json"
+    ],
+    [
+      "Tutorial",
+      "Data\\JSON\\INITIALIZE\\CAMERA\\Tutorial.json"
+    ],
+    [
+      "Game",
+      "Data\\JSON\\INITIALIZE\\CAMERA\\Game.json"
+    ],
+    [
+      "Result",
+      "Data\\JSON\\INITIALIZE\\CAMERA\\Result.json"
+    ],
+    [
+      "Charge_0",
+      "Data\\JSON\\INITIALIZE\\CAMERA\\Charge_0.json"
+    ],
+    [
+      "Charge_1",
+      "Data\\JSON\\INITIALIZE\\CAMERA\\Charge_1.json"
+    ],
+    [
+      "Charge_2",
+      "Data\\JSON\\INITIALIZE\\CAMERA\\Charge_2.json"
+    ]
+  ]
+}

@@ -1,0 +1,307 @@
+{
+    "Level": 1,
+    "Tag": "None",
+    "AnticipationFrame": 180,
+    "Objects": [
+        {
+            "ModelName": "Data\\Model\\bomb.x",
+            "Move": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Name": "Obstacle",
+            "Pos": [
+                -189.0,
+                -105.0,
+                -80.0
+            ],
+            "Rot": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Rotation": [
+                0.0,
+                0.0,
+                -0.699999988079071
+            ],
+            "Scale": [
+                7.0,
+                7.0,
+                7.0
+            ],
+            "SummonFrame": 0
+        },
+        {
+            "ModelName": "Data\\Model\\pushpin.x",
+            "Move": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Name": "Obstacle",
+            "Pos": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Rot": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Rotation": [
+                1.5,
+                0.0,
+                0.0
+            ],
+            "Scale": [
+                20.0,
+                20.0,
+                20.0
+            ],
+            "SummonFrame": 0
+        },
+        {
+            "ModelName": "Data\\Model\\chainsaw.x",
+            "Move": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Name": "Obstacle",
+            "Pos": [
+                260.0,
+                90.0,
+                70.0
+            ],
+            "Rot": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Rotation": [
+                1.0,
+                1.2000000476837158,
+                0.0
+            ],
+            "Scale": [
+                4.0,
+                4.0,
+                4.0
+            ],
+            "SummonFrame": 0
+        },
+        {
+            "ModelName": "Data\\Model\\SafeZone.x",
+            "Move": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Name": "SafeZone",
+            "Pos": [
+                130.0,
+                42.79999923706055,
+                0.0
+            ],
+            "Rot": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": [
+                4.0,
+                4.0,
+                0.0
+            ],
+            "SummonFrame": 0
+        },
+        {
+            "ModelName": "Data\\Model\\gold.x",
+            "Move": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Name": "Obstacle",
+            "Pos": [
+                170.0,
+                -75.0,
+                -90.0
+            ],
+            "Rot": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Rotation": [
+                0.30000001192092896,
+                2.4000000953674316,
+                -0.800000011920929
+            ],
+            "Scale": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "SummonFrame": 0
+        },
+        {
+            "ModelName": "Data\\Model\\shuriken.x",
+            "Move": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Name": "Obstacle",
+            "Pos": [
+                17.899999618530273,
+                -111.0999984741211,
+                0.0
+            ],
+            "Rot": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Rotation": [
+                0.699999988079071,
+                7.800000190734863,
+                0.0
+            ],
+            "Scale": [
+                3.0,
+                3.0,
+                3.0
+            ],
+            "SummonFrame": 0
+        },
+        {
+            "ModelName": "Data\\Model\\SafeZone.x",
+            "Move": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Name": "SafeZone",
+            "Pos": [
+                -45.0,
+                -125.0,
+                0.0
+            ],
+            "Rot": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": [
+                3.0,
+                3.0,
+                1.0
+            ],
+            "SummonFrame": 0
+        },
+        {
+            "ModelName": "Data\\Model\\hammer.x",
+            "Move": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Name": "Obstacle",
+            "Pos": [
+                -255.0,
+                145.0,
+                0.0
+            ],
+            "Rot": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Rotation": [
+                0.4000000059604645,
+                1.7000000476837158,
+                0.4000000059604645
+            ],
+            "Scale": [
+                3.0,
+                2.0,
+                2.0
+            ],
+            "SummonFrame": 0
+        },
+        {
+            "ModelName": "Data\\Model\\bomb.x",
+            "Move": [
+                0.0,
+                0.0,
+                -70.0
+            ],
+            "Name": "Obstacle",
+            "Pos": [
+                -150.0,
+                75.0,
+                0.0
+            ],
+            "Rot": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Rotation": [
+                0.0,
+                0.0,
+                8.699999809265137
+            ],
+            "Scale": [
+                7.0,
+                7.0,
+                7.0
+            ],
+            "SummonFrame": 0
+        },
+        {
+            "ModelName": "Data\\Model\\gold.x",
+            "Move": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Name": "Obstacle",
+            "Pos": [
+                21.899999618530273,
+                160.0,
+                120.0
+            ],
+            "Rot": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Rotation": [
+                0.0,
+                2.200000047683716,
+                5.599999904632568
+            ],
+            "Scale": [
+                6.0,
+                6.0,
+                6.0
+            ],
+            "SummonFrame": 0
+        }
+    ]
+}

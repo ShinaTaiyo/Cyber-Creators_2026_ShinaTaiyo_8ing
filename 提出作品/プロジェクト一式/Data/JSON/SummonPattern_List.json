@@ -1,0 +1,38 @@
+[
+	{
+		"FilePass": "Data\\JSON\\SummonPattern\\bottom.Json",
+		"LevelName": "Easy"
+	},
+	{
+		"FilePass": "Data\\JSON\\SummonPattern\\nature.Json",
+		"LevelName": "Easy"
+	},
+	{
+		"FilePass": "Data\\JSON\\SummonPattern\\Hammer.Json",
+		"LevelName": "Easy"
+	},
+	{
+		"FilePass": "Data\\JSON\\SummonPattern\\banana.Json",
+		"LevelName": "Easy"
+	},
+	{
+		"FilePass": "Data\\JSON\\SummonPattern\\bomb.Json",
+		"LevelName": "Easy"
+	},
+	{
+		"FilePass": "Data\\JSON\\SummonPattern\\circle_kemushi.Json",
+		"LevelName": "Easy"
+	},
+	{
+		"FilePass": "Data\\JSON\\SummonPattern\\shuriken_hole.Json",
+		"LevelName": "Normal"
+	},
+	{
+		"FilePass": "Data\\JSON\\SummonPattern\\hammer_normal.Json",
+		"LevelName": "Normal"
+	},
+	{
+		"FilePass": "Data\\JSON\\SummonPattern\\chainsaw.Json",
+		"LevelName": "Hard"
+	}
+]

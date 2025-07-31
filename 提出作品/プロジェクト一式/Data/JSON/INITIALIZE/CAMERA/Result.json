@@ -1,0 +1,27 @@
+{
+  "Rot": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "RotTarget": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Pos": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "PosTarget": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Distance": 0.0,
+  "DistanceTarget": 100.0,
+  "UpAdjust": 0.0,
+  "UpAdjustTarget": 25.0,
+  "UseDecay": true
+}

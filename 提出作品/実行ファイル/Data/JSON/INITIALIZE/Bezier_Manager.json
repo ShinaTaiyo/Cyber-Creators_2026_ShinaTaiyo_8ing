@@ -1,0 +1,16 @@
+{
+  "element": [
+    [
+      "First",
+      "Data\\JSON\\INITIALIZE\\BEZIER\\First.json"
+    ],
+    [
+      "Second",
+      "Data\\JSON\\INITIALIZE\\BEZIER\\Second.json"
+    ],
+    [
+      "Third",
+      "Data\\JSON\\INITIALIZE\\BEZIER\\Third.json"
+    ]
+  ]
+}

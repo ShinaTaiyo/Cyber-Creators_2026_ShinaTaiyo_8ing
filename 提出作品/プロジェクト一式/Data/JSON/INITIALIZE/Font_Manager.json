@@ -1,0 +1,12 @@
+{
+  "element": [
+    [
+      "Meiryo",
+      "Data\\JSON\\INITIALIZE\\FONT\\Meiryo.json"
+    ],
+    [
+      "Hangyaku",
+      "Data\\JSON\\INITIALIZE\\FONT\\Hangyaku.json"
+    ]
+  ]
+}

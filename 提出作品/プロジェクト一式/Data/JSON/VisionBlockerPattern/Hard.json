@@ -1,0 +1,74 @@
+[
+  {
+    "SpawnPoint": [
+      300.0,
+      0.0,
+      -200.0
+    ],
+    "BaseMove": [
+      -0.625,
+      -0.125,
+      0.0
+    ],
+    "SpawnRate": 2,
+    "SpawnRange": {
+      "Max": [
+        25.0,
+        300.0,
+        20.0
+      ],
+      "Min": [
+        -25.0,
+        -300.0,
+        -20.0
+      ]
+    },
+    "LeafSpeed": {
+      "Max": 4.0,
+      "Min": 1.0
+    },
+    "LeafSwayAddAngle": {
+      "Max": 0.03,
+      "Min": 0.02
+    },
+    "LeafAddRotRange": 0.06,
+    "Life": 1200,
+    "LeafType": "Red"
+  },
+  {
+    "SpawnPoint": [
+      300.0,
+      0.0,
+      -100.0
+    ],
+    "BaseMove": [
+      -0.625,
+      -0.125,
+      0.0
+    ],
+    "SpawnRate": 4,
+    "SpawnRange": {
+      "Max": [
+        25.0,
+        300.0,
+        20.0
+      ],
+      "Min": [
+        -25.0,
+        -300.0,
+        -20.0
+      ]
+    },
+    "LeafSpeed": {
+      "Max": 4.0,
+      "Min": 1.0
+    },
+    "LeafSwayAddAngle": {
+      "Max": 0.03,
+      "Min": 0.02
+    },
+    "LeafAddRotRange": 0.06,
+    "Life": 1200,
+    "LeafType": "Red"
+  }
+]

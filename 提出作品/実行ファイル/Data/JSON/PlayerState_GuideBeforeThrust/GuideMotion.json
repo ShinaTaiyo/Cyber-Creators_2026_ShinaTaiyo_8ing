@@ -1,0 +1,29 @@
+﻿[
+  {
+    "LerpFrame": 60,
+    "GoalPos": [
+      200.0,
+      0.0,
+      0.0
+    ],
+    "ExecuteThrust": false
+  },
+  {
+    "LerpFrame": 50,
+    "GoalPos": [
+      0.0,
+      200.0,
+      0.0
+    ],
+    "ExecuteThrust": false
+  },
+  {
+    "LerpFrame": 60,
+    "GoalPos": [
+      0.0,
+      -120.0,
+      0.0
+    ],
+    "ExecuteThrust": true
+  }
+]

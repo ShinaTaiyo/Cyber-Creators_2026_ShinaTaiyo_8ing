@@ -1,0 +1,27 @@
+﻿[
+  {
+    "Text": "次に手刀の使い方を説明していきます",
+    "DispFrame": 120,
+    "Stop": false
+  },
+  {
+    "Text": "例えば、こんなシチュエーションがありうるとします",
+    "DispFrame": 120,
+    "Stop": false
+  },
+  {
+    "Text": "このままじゃ当たっちゃいますね・・・",
+    "DispFrame": 120,
+    "Stop": false
+  },
+  {
+    "Text": "そこで！手刀の出番です！",
+    "DispFrame": 120,
+    "Stop": true
+  },
+  {
+    "Text": "このようにやばくなったら手刀で全てを破壊します",
+    "DispFrame": 180,
+    "Stop": false
+  }
+]

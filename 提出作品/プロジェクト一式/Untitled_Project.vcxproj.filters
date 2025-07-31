@@ -1,0 +1,683 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Src\GroupSrc\title.cpp">
+      <Filter>&lt;Scene&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\scene.cpp">
+      <Filter>&lt;Scene&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\result.cpp">
+      <Filter>&lt;Scene&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\game.cpp">
+      <Filter>&lt;Scene&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\object.cpp">
+      <Filter>&lt;Object&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\object_2D.cpp">
+      <Filter>&lt;Object&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\object_3D.cpp">
+      <Filter>&lt;Object&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\object_Billboard.cpp">
+      <Filter>&lt;Object&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\object_HUD.cpp">
+      <Filter>&lt;Object&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\object_X.cpp">
+      <Filter>&lt;Object&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\input.cpp">
+      <Filter>&lt;System&gt;\&lt;Input&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\input_keyboard.cpp">
+      <Filter>&lt;System&gt;\&lt;Input&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\input_pad.cpp">
+      <Filter>&lt;System&gt;\&lt;Input&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\texture_manager.cpp">
+      <Filter>&lt;System&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\renderer.cpp">
+      <Filter>&lt;System&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\sound.cpp">
+      <Filter>&lt;System&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\manager.cpp">
+      <Filter>&lt;System&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\collision.cpp">
+      <Filter>&lt;Utility&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\object_Effect.cpp">
+      <Filter>&lt;Object&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\External\ImGui\imgui_widgets.cpp">
+      <Filter>&lt;ImGui&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\External\ImGui\imgui_tables.cpp">
+      <Filter>&lt;ImGui&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\External\ImGui\imgui_impl_win32.cpp">
+      <Filter>&lt;ImGui&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\External\ImGui\imgui_impl_dx9.cpp">
+      <Filter>&lt;ImGui&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\External\ImGui\imgui_draw.cpp">
+      <Filter>&lt;ImGui&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\External\ImGui\imgui_demo.cpp">
+      <Filter>&lt;ImGui&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\External\ImGui\imgui.cpp">
+      <Filter>&lt;ImGui&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\X_manager.cpp">
+      <Filter>&lt;System&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\input_mouse.cpp">
+      <Filter>&lt;System&gt;\&lt;Input&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\motion_set.cpp">
+      <Filter>&lt;Object&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\object_Parts.cpp">
+      <Filter>&lt;Object&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\object_TextMesh.cpp">
+      <Filter>&lt;Object&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\object_PopUp.cpp">
+      <Filter>&lt;Object&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\block.cpp">
+      <Filter>&lt;Entity&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\player.cpp">
+      <Filter>&lt;Entity&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\bounding_box.cpp">
+      <Filter>&lt;Utility&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\bgmodel.cpp">
+      <Filter>&lt;Entity&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\bounding_cylinder.cpp">
+      <Filter>&lt;Utility&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\obstacle.cpp">
+      <Filter>&lt;Entity&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\target.cpp">
+      <Filter>&lt;Entity&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\zone.cpp">
+      <Filter>&lt;Entity&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\number.cpp">
+      <Filter>&lt;Entity&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\particle_2D.cpp">
+      <Filter>&lt;Entity&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\timer.cpp">
+      <Filter>&lt;Entity&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\timescale_info.cpp">
+      <Filter>&lt;Utility&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\move_info.cpp">
+      <Filter>&lt;Utility&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\calculation.cpp">
+      <Filter>&lt;Utility&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\transparent_info.cpp">
+      <Filter>&lt;Utility&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\particle.cpp">
+      <Filter>&lt;Entity&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\horming_info.cpp">
+      <Filter>&lt;Utility&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\GamePlayer.cpp">
+      <Filter>&lt;Entity&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\SummonGroupSelector.cpp" />
+    <ClCompile Include="Src\GroupSrc\OBB.cpp">
+      <Filter>&lt;Utility&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\logger.cpp">
+      <Filter>&lt;Utility&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\RotatingCylinder.cpp">
+      <Filter>&lt;Utility&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\hole.cpp">
+      <Filter>&lt;Entity&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\HoleObstacle.cpp">
+      <Filter>&lt;Entity&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\VisionBlocker.cpp">
+      <Filter>&lt;Entity&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\EffectAccumulation.cpp">
+      <Filter>&lt;Shader&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\SummonCommonData.cpp" />
+    <ClCompile Include="Src\GroupSrc\StencilMask.cpp">
+      <Filter>&lt;Entity&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\pch.cpp">
+      <Filter>&lt;System&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\light.cpp">
+      <Filter>&lt;System&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\camera.cpp">
+      <Filter>&lt;System&gt;\&lt;Camera&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\camera_manager.cpp">
+      <Filter>&lt;System&gt;\&lt;Camera&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\tutorial.cpp">
+      <Filter>&lt;Scene&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\ToneAdjust.cpp">
+      <Filter>&lt;Shader&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\useful.cpp">
+      <Filter>&lt;Utility&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\object_Texture.cpp">
+      <Filter>&lt;Object&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\space.cpp">
+      <Filter>&lt;Entity&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\PlayerState_BeforeThrust.cpp">
+      <Filter>PlayerState</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\PlayerState_Returning.cpp">
+      <Filter>PlayerState</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\PlayerState_Thrusting.cpp">
+      <Filter>PlayerState</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\PlayerState.cpp">
+      <Filter>PlayerState</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\Vec3ExponertialInfo.cpp">
+      <Filter>&lt;Utility&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\texture_animator.cpp">
+      <Filter>&lt;Utility&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\SmokeEffect.cpp">
+      <Filter>&lt;Shader&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\Vec3LerpInfo.cpp">
+      <Filter>&lt;Utility&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\swaying_player.cpp" />
+    <ClCompile Include="Src\GroupSrc\quadratic_bezier.cpp" />
+    <ClCompile Include="Src\GroupSrc\TutorialState.cpp">
+      <Filter>TutorialState</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\TutorialState_GamePurpose.cpp">
+      <Filter>TutorialState</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\TutorialState_HandSwordDemo.cpp">
+      <Filter>TutorialState</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\TutorialState_ThrustGuide_Fail.cpp">
+      <Filter>TutorialState</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\TutorialState_ThrustGuide_Success.cpp">
+      <Filter>TutorialState</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\TutorialState_ThrustPractice.cpp">
+      <Filter>TutorialState</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\camera_state.cpp">
+      <Filter>CameraState</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\camera_state_normal.cpp">
+      <Filter>CameraState</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\camera_state_targetzoom.cpp">
+      <Filter>CameraState</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\summon_manager_state.cpp">
+      <Filter>summon_manager_state</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\summon_manager_state_start.cpp">
+      <Filter>summon_manager_state</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\summon_manager.cpp" />
+    <ClCompile Include="Src\GroupSrc\VisionBlockSpawner.cpp">
+      <Filter>&lt;Entity&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\summon_manager_state_choose.cpp">
+      <Filter>summon_manager_state</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\UiText.cpp" />
+    <ClCompile Include="Src\GroupSrc\UiTextManager.cpp" />
+    <ClCompile Include="Src\GroupSrc\Button.cpp">
+      <Filter>&lt;Entity&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\PlayerState_GuideBeforeThrust.cpp">
+      <Filter>PlayerState</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\PlayerState_HandSwordPractice.cpp">
+      <Filter>PlayerState</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\TutorialPlayer.cpp">
+      <Filter>&lt;Entity&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\TestScene.cpp">
+      <Filter>&lt;Scene&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\main.cpp">
+      <Filter>&lt;Utility&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\TutorialState_HandSwordPractice.cpp">
+      <Filter>TutorialState</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\prologue.cpp">
+      <Filter>&lt;Scene&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\bezier_manager.cpp" />
+    <ClCompile Include="Src\GroupSrc\vector_interpolator.cpp">
+      <Filter>&lt;Utility&gt;</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GroupSrc\rotator_roll.cpp">
+      <Filter>&lt;Utility&gt;</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Src\GroupSrc\title.h">
+      <Filter>&lt;Scene&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\scene.h">
+      <Filter>&lt;Scene&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\result.h">
+      <Filter>&lt;Scene&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\game.h">
+      <Filter>&lt;Scene&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\object.h">
+      <Filter>&lt;Object&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\object_2D.h">
+      <Filter>&lt;Object&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\object_3D.h">
+      <Filter>&lt;Object&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\object_Billboard.h">
+      <Filter>&lt;Object&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\object_HUD.h">
+      <Filter>&lt;Object&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\object_X.h">
+      <Filter>&lt;Object&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\input.h">
+      <Filter>&lt;System&gt;\&lt;Input&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\input_keyboard.h">
+      <Filter>&lt;System&gt;\&lt;Input&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\input_pad.h">
+      <Filter>&lt;System&gt;\&lt;Input&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\texture_manager.h">
+      <Filter>&lt;System&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\renderer.h">
+      <Filter>&lt;System&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\sound.h">
+      <Filter>&lt;System&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\manager.h">
+      <Filter>&lt;System&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\collision.h">
+      <Filter>&lt;Utility&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\object_Effect.h">
+      <Filter>&lt;Object&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\External\ImGui\imstb_truetype.h">
+      <Filter>&lt;ImGui&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\External\ImGui\imstb_textedit.h">
+      <Filter>&lt;ImGui&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\External\ImGui\imstb_rectpack.h">
+      <Filter>&lt;ImGui&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\External\ImGui\imgui_internal.h">
+      <Filter>&lt;ImGui&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\External\ImGui\imgui_impl_win32.h">
+      <Filter>&lt;ImGui&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\External\ImGui\imgui_impl_dx9.h">
+      <Filter>&lt;ImGui&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\External\ImGui\imgui.h">
+      <Filter>&lt;ImGui&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\External\ImGui\imconfig.h">
+      <Filter>&lt;ImGui&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\X_manager.h">
+      <Filter>&lt;System&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\input_mouse.h">
+      <Filter>&lt;System&gt;\&lt;Input&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\motion_set.h">
+      <Filter>&lt;Object&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\object_Parts.h">
+      <Filter>&lt;Object&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\object_TextMesh.h">
+      <Filter>&lt;Object&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\object_PopUp.h">
+      <Filter>&lt;Object&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\block.h">
+      <Filter>&lt;Entity&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\player.h">
+      <Filter>&lt;Entity&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\bounding_box.h">
+      <Filter>&lt;Utility&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\bgmodel.h">
+      <Filter>&lt;Entity&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\bounding_cylinder.h">
+      <Filter>&lt;Utility&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\obstacle.h">
+      <Filter>&lt;Entity&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\target.h">
+      <Filter>&lt;Entity&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\zone.h">
+      <Filter>&lt;Entity&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\number.h">
+      <Filter>&lt;Entity&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\particle_2D.h">
+      <Filter>&lt;Entity&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\timer.h">
+      <Filter>&lt;Entity&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\timescale_info.h">
+      <Filter>&lt;Utility&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\move_info.h">
+      <Filter>&lt;Utility&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\calculation.h">
+      <Filter>&lt;Utility&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\transparent_info.h">
+      <Filter>&lt;Utility&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\particle.h">
+      <Filter>&lt;Entity&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\horming_info.h">
+      <Filter>&lt;Utility&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\singleton.hpp">
+      <Filter>&lt;Utility&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\GamePlayer.h">
+      <Filter>&lt;Entity&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\SummonGroupSelector.h" />
+    <ClInclude Include="Src\GroupSrc\OBB.h">
+      <Filter>&lt;Utility&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\logger.h">
+      <Filter>&lt;Utility&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\RotatingCylinder.h">
+      <Filter>&lt;Utility&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\hole.h">
+      <Filter>&lt;Entity&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\HoleObstacle.h">
+      <Filter>&lt;Entity&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\VisionBlocker.h">
+      <Filter>&lt;Entity&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\EffectAccumulation.h">
+      <Filter>&lt;Shader&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\SummonCommonData.h" />
+    <ClInclude Include="Src\GroupSrc\StencilMask.h">
+      <Filter>&lt;Entity&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\pch.h">
+      <Filter>&lt;System&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\main.h">
+      <Filter>&lt;System&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\light.h">
+      <Filter>&lt;System&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\camera.h">
+      <Filter>&lt;System&gt;\&lt;Camera&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\camera_manager.h">
+      <Filter>&lt;System&gt;\&lt;Camera&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\tutorial.h">
+      <Filter>&lt;Scene&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\ToneAdjust.h">
+      <Filter>&lt;Shader&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\useful.hpp">
+      <Filter>&lt;Utility&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\object_Texture.h">
+      <Filter>&lt;Object&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\space.h">
+      <Filter>&lt;Entity&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\PlayerState_BeforeThrust.h">
+      <Filter>PlayerState</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\PlayerState_Returning.h">
+      <Filter>PlayerState</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\PlayerState_Thrusting.h">
+      <Filter>PlayerState</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\PlayerState.h">
+      <Filter>PlayerState</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\Vec3ExponertialInfo.h">
+      <Filter>&lt;Utility&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\texture_animator.hpp">
+      <Filter>&lt;Utility&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\SmokeEffect.h">
+      <Filter>&lt;Shader&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\Vec3LerpInfo.h">
+      <Filter>&lt;Utility&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\swaying_player.h" />
+    <ClInclude Include="Src\GroupSrc\quadratic_bezier.h" />
+    <ClInclude Include="Src\GroupSrc\TutorialState.h">
+      <Filter>TutorialState</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\TutorialState_GamePurpose.h">
+      <Filter>TutorialState</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\TutorialState_HandSwordDemo.h">
+      <Filter>TutorialState</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\TutorialState_ThrustGuide_Fail.h">
+      <Filter>TutorialState</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\TutorialState_ThrustGuide_Success.h">
+      <Filter>TutorialState</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\TutorialState_ThrustPractice.h">
+      <Filter>TutorialState</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\camera_state.h">
+      <Filter>CameraState</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\camera_state_normal.h">
+      <Filter>CameraState</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\camera_state_targetzoom.h">
+      <Filter>CameraState</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\summon_manager_state.h">
+      <Filter>summon_manager_state</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\summon_manager_state_start.h">
+      <Filter>summon_manager_state</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\summon_manager.h" />
+    <ClInclude Include="Src\GroupSrc\VisionBlockSpawner.h">
+      <Filter>&lt;Entity&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\summon_manager_state_choose.h">
+      <Filter>summon_manager_state</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\UiText.h" />
+    <ClInclude Include="Src\GroupSrc\UiTextManager.h" />
+    <ClInclude Include="Src\GroupSrc\Button.h">
+      <Filter>&lt;Entity&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\PlayerState_GuideBeforeThrust.h">
+      <Filter>PlayerState</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\PlayerState_HandSwordPractice.h">
+      <Filter>PlayerState</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\TutorialPlayer.h">
+      <Filter>&lt;Entity&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\TestScene.h">
+      <Filter>&lt;Scene&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\TutorialState_HandSwordPractice.h">
+      <Filter>TutorialState</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\prologue.h">
+      <Filter>&lt;Scene&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\bezier_manager.h" />
+    <ClInclude Include="Src\GroupSrc\vector_interpolator.hpp">
+      <Filter>&lt;Utility&gt;</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GroupSrc\rotator_roll.h">
+      <Filter>&lt;Utility&gt;</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="&lt;Object&gt;">
+      <UniqueIdentifier>{97e60c37-3cab-4a6f-9f00-80e1d7f38c4a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="&lt;System&gt;">
+      <UniqueIdentifier>{e8e0c940-d826-4680-a5f3-8bc400344620}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="&lt;System&gt;\&lt;Input&gt;">
+      <UniqueIdentifier>{671f83ae-673a-4a83-83fd-d45193394866}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="&lt;Scene&gt;">
+      <UniqueIdentifier>{bbc8e6b6-eda4-4574-8892-2f94771dc113}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="&lt;ImGui&gt;">
+      <UniqueIdentifier>{bd3ddba6-1f29-44ae-98bb-d67806c2ecaf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="&lt;Utility&gt;">
+      <UniqueIdentifier>{07c8b80b-d72f-4cd8-8cb3-d5880e69bd8f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="&lt;Entity&gt;">
+      <UniqueIdentifier>{833ec3fe-4d1e-457b-87c0-79a5e2cb84e2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="&lt;Shader&gt;">
+      <UniqueIdentifier>{65dbd76d-4026-49f2-9e9e-21ade92d42f5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="&lt;System&gt;\&lt;Camera&gt;">
+      <UniqueIdentifier>{a1405a80-491d-46cf-9377-56e9772d07d5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PlayerState">
+      <UniqueIdentifier>{a4bbacaf-ea99-4bb5-94a7-dcadd48da6eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TutorialState">
+      <UniqueIdentifier>{33d73aef-0d2d-45aa-b01b-4724aadb693e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CameraState">
+      <UniqueIdentifier>{6109021a-460b-414c-9269-57260ac830d5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="summon_manager_state">
+      <UniqueIdentifier>{260c3efb-f3af-40a4-be06-c6287865182a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Src\GroupSrc\singleton.tpp">
+      <Filter>&lt;Utility&gt;</Filter>
+    </None>
+    <None Include="Src\Shader\fxo\EffectAccumulation.fxo">
+      <Filter>&lt;Shader&gt;</Filter>
+    </None>
+    <None Include="Src\GroupSrc\useful.tpp">
+      <Filter>&lt;Utility&gt;</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="Src\Shader\fx\EffectAccumulation.fx">
+      <Filter>&lt;Shader&gt;</Filter>
+    </FxCompile>
+    <FxCompile Include="Src\Shader\fx\ToneAdjust.fx">
+      <Filter>&lt;Shader&gt;</Filter>
+    </FxCompile>
+    <FxCompile Include="Src\Shader\fx\ToonShader.fx">
+      <Filter>&lt;Shader&gt;</Filter>
+    </FxCompile>
+    <FxCompile Include="Src\Shader\fx\SmokeEffect.fx">
+      <Filter>&lt;Shader&gt;</Filter>
+    </FxCompile>
+  </ItemGroup>
+</Project>

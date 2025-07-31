@@ -1,0 +1,6 @@
+１：エディタで制作したパターンは、Data\\JSON\\SummonPatternに追加。
+２：SummonPattern_List.jsonに追加したパスを記述
+３：追加したパスの行の順番にSummonn_manager_state.hにある列挙型に召喚パターンの名前を設定、追加
+４：難易度（Easy、Normal、Hard、Expert)を記述してください。
+→例："LevelName": "Easy"
+※今召喚パターンにLevelがあると思いますが、読み込む瞬間にレベルは使いません。なぜなら、その召喚パターンを読み込む前にLevelを知っていないと、現在の難易度スコアによって召喚パターンの種類を選ぶことが出来ないからです。

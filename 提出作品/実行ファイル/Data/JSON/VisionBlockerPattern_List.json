@@ -1,0 +1,6 @@
+[
+  "Data\\JSON\\VisionBlockerPattern\\Easy.json",
+  "Data\\JSON\\VisionBlockerPattern\\Normal.json",
+  "Data\\JSON\\VisionBlockerPattern\\Hard.json",
+  "Data\\JSON\\VisionBlockerPattern\\Expert.json"
+]

@@ -1,0 +1,15 @@
+﻿{
+  "GoalSuccessNum": 3,
+  "Comment": [
+    {
+      "Text": "その調子！",
+      "DispFrame": 120,
+      "Default": false
+    },
+    {
+      "Text": "違う！",
+      "DispFrame": 120,
+      "Default": false
+    }
+  ]
+}

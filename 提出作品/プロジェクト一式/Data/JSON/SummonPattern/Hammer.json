@@ -1,0 +1,307 @@
+{
+    "Level": 1,
+    "Tag": "Nomal",
+    "AnticipationFrame": 180,
+    "Objects": [
+        {
+            "ModelName": "Data\\Model\\hammer.x",
+            "Move": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Name": "Obstacle",
+            "Pos": [
+                0.0,
+                0.0,
+                -100.0
+            ],
+            "Rot": [
+                0.05,
+                0.0,
+                0.0
+            ],
+            "Rotation": [
+                0.0,
+                1.7000000476837158,
+                0.0
+            ],
+            "Scale": [
+                6.0,
+                6.0,
+                3.0
+            ],
+            "SummonFrame": 0
+        },
+        {
+            "ModelName": "Data\\Model\\shuriken.x",
+            "Move": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Name": "Obstacle",
+            "Pos": [
+                100.0,
+                0.0,
+                80.0
+            ],
+            "Rot": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Rotation": [
+                3.0999999046325684,
+                -0.4000000059604645,
+                5.699999809265137
+            ],
+            "Scale": [
+                2.0,
+                2.0,
+                2.0
+            ],
+            "SummonFrame": 0
+        },
+        {
+            "ModelName": "Data\\Model\\shuriken.x",
+            "Move": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Name": "Obstacle",
+            "Pos": [
+                65.0,
+                90.0,
+                30.0
+            ],
+            "Rot": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Rotation": [
+                3.4000000953674316,
+                2.0999999046325684,
+                7.199999809265137
+            ],
+            "Scale": [
+                2.0,
+                2.0,
+                2.0
+            ],
+            "SummonFrame": 0
+        },
+        {
+            "ModelName": "Data\\Model\\harisenbon.x",
+            "Move": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Name": "Obstacle",
+            "Pos": [
+                182.0,
+                -98.0,
+                0.0
+            ],
+            "Rot": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Rotation": [
+                -0.20000000298023224,
+                -0.20000000298023224,
+                -0.4000000059604645
+            ],
+            "Scale": [
+                4.0,
+                4.0,
+                4.0
+            ],
+            "SummonFrame": 0
+        },
+        {
+            "ModelName": "Data\\Model\\shuriken.x",
+            "Move": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Name": "Obstacle",
+            "Pos": [
+                240.0,
+                0.0,
+                0.0
+            ],
+            "Rot": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Rotation": [
+                2.299999952316284,
+                1.899999976158142,
+                -0.699999988079071
+            ],
+            "Scale": [
+                2.0,
+                2.0,
+                2.0
+            ],
+            "SummonFrame": 0
+        },
+        {
+            "ModelName": "Data\\Model\\SafeZone.x",
+            "Move": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Name": "SafeZone",
+            "Pos": [
+                240.0,
+                140.0,
+                0.0
+            ],
+            "Rot": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": [
+                4.0,
+                4.0,
+                1.0
+            ],
+            "SummonFrame": 0
+        },
+        {
+            "ModelName": "Data\\Model\\shu-ringan.x",
+            "Move": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Name": "Obstacle",
+            "Pos": [
+                -165.0,
+                100.0,
+                0.0
+            ],
+            "Rot": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Rotation": [
+                0.0,
+                -3.0999999046325684,
+                -4.800000190734863
+            ],
+            "Scale": [
+                6.0,
+                6.0,
+                6.0
+            ],
+            "SummonFrame": 0
+        },
+        {
+            "ModelName": "Data\\Model\\shuriken.x",
+            "Move": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Name": "Obstacle",
+            "Pos": [
+                -90.0,
+                -70.0,
+                0.0
+            ],
+            "Rot": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Rotation": [
+                5.0,
+                1.0,
+                -0.699999988079071
+            ],
+            "Scale": [
+                2.0,
+                2.0,
+                2.0
+            ],
+            "SummonFrame": 0
+        },
+        {
+            "ModelName": "Data\\Model\\SafeZone.x",
+            "Move": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Name": "SafeZone",
+            "Pos": [
+                -213.0,
+                -41.79999923706055,
+                0.0
+            ],
+            "Rot": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": [
+                3.0,
+                3.0,
+                1.0
+            ],
+            "SummonFrame": 0
+        },
+        {
+            "ModelName": "Data\\Model\\shuriken.x",
+            "Move": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Name": "Obstacle",
+            "Pos": [
+                -210.0,
+                -130.0,
+                0.0
+            ],
+            "Rot": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Rotation": [
+                0.0,
+                0.0,
+                -0.6000000238418579
+            ],
+            "Scale": [
+                2.0,
+                2.0,
+                2.0
+            ],
+            "SummonFrame": 0
+        }
+    ]
+}

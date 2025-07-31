@@ -1,0 +1,412 @@
+{
+    "Level": 1,
+    "Tag": "None",
+    "AnticipationFrame": 180,
+    "Objects": [
+        {
+            "HoleOffset": [
+                22.100000381469727,
+                28.600000381469727,
+                0.0
+            ],
+            "HoleRot": [
+                0.0,
+                -1.5,
+                0.0
+            ],
+            "HoleScale": [
+                4.0,
+                4.0,
+                4.0
+            ],
+            "ModelName": "Data\\Model\\kemusi_hole.x",
+            "Move": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Name": "HoleObstacle",
+            "Pos": [
+                -110.0,
+                -60.0,
+                0.0
+            ],
+            "Rot": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Rotation": [
+                0.0,
+                1.5,
+                0.0
+            ],
+            "Scale": [
+                30.0,
+                30.0,
+                30.0
+            ],
+            "SummonFrame": 0
+        },
+        {
+            "HoleOffset": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "HoleRot": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "HoleScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ModelName": "Data\\Model\\kemusi_hole.x",
+            "Move": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Name": "HoleObstacle",
+            "Pos": [
+                -73.0,
+                -10.0,
+                0.0
+            ],
+            "Rot": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Rotation": [
+                0.0,
+                -1.5,
+                3.0
+            ],
+            "Scale": [
+                30.0,
+                30.0,
+                30.0
+            ],
+            "SummonFrame": 0
+        },
+        {
+            "HoleOffset": [
+                4.300000190734863,
+                73.80000305175781,
+                0.0
+            ],
+            "HoleRot": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "HoleScale": [
+                3.0,
+                3.0,
+                7.0
+            ],
+            "ModelName": "Data\\Model\\harisenbon_hole.x",
+            "Move": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Name": "HoleObstacle",
+            "Pos": [
+                250.0,
+                -120.0,
+                0.0
+            ],
+            "Rot": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Rotation": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "Scale": [
+                4.0,
+                4.0,
+                4.0
+            ],
+            "SummonFrame": 0
+        },
+        {
+            "ModelName": "Data\\Model\\SafeZone.x",
+            "Move": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Name": "SafeZone",
+            "Pos": [
+                -91.0,
+                -29.100000381469727,
+                0.0
+            ],
+            "Rot": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": [
+                4.0,
+                4.0,
+                1.0
+            ],
+            "SummonFrame": 0
+        },
+        {
+            "ModelName": "Data\\Model\\SafeZone.x",
+            "Move": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Name": "SafeZone",
+            "Pos": [
+                173.8000030517578,
+                -47.099998474121094,
+                0.0
+            ],
+            "Rot": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": [
+                3.0,
+                3.0,
+                1.0
+            ],
+            "SummonFrame": 0
+        },
+        {
+            "HoleOffset": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "HoleRot": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "HoleScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ModelName": "Data\\Model\\igaguri_hole.x",
+            "Move": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Name": "HoleObstacle",
+            "Pos": [
+                161.10000610351563,
+                90.9000015258789,
+                0.0
+            ],
+            "Rot": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Rotation": [
+                0.0,
+                10.699999809265137,
+                -4.0
+            ],
+            "Scale": [
+                6.0,
+                6.0,
+                6.0
+            ],
+            "SummonFrame": 0
+        },
+        {
+            "ModelName": "Data\\Model\\snails.x",
+            "Move": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Name": "Obstacle",
+            "Pos": [
+                15.800000190734863,
+                -199.60000610351563,
+                0.0
+            ],
+            "Rot": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": [
+                4.0,
+                4.0,
+                2.0
+            ],
+            "SummonFrame": 0
+        },
+        {
+            "ModelName": "Data\\Model\\hachinosu.x",
+            "Move": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Name": "Obstacle",
+            "Pos": [
+                -250.39999389648438,
+                129.8000030517578,
+                0.0
+            ],
+            "Rot": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Rotation": [
+                0.0,
+                0.5,
+                4.099999904632568
+            ],
+            "Scale": [
+                7.0,
+                7.0,
+                7.0
+            ],
+            "SummonFrame": 0
+        },
+        {
+            "ModelName": "Data\\Model\\banana.x",
+            "Move": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Name": "Obstacle",
+            "Pos": [
+                -227.10000610351563,
+                -128.3000030517578,
+                0.0
+            ],
+            "Rot": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": [
+                4.0,
+                4.0,
+                4.0
+            ],
+            "SummonFrame": 0
+        },
+        {
+            "ModelName": "Data\\Model\\snails.x",
+            "Move": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Name": "Obstacle",
+            "Pos": [
+                -70.30000305175781,
+                58.29999923706055,
+                0.0
+            ],
+            "Rot": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Rotation": [
+                0.0,
+                5.800000190734863,
+                -6.5
+            ],
+            "Scale": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "SummonFrame": 0
+        },
+        {
+            "HoleOffset": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "HoleRot": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "HoleScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ModelName": "Data\\Model\\igaguri_hole.x",
+            "Move": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Name": "HoleObstacle",
+            "Pos": [
+                58.70000076293945,
+                -62.79999923706055,
+                0.0
+            ],
+            "Rot": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Rotation": [
+                0.0,
+                0.0,
+                0.4000000059604645
+            ],
+            "Scale": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "SummonFrame": 0
+        }
+    ]
+}
